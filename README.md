@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Sonasi and I'm an iOS Developer.
 
 <!--
 **Sonasi986/Sonasi986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
